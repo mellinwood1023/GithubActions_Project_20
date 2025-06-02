@@ -20,7 +20,13 @@ This project is a coding quiz application built with a React frontend and an Exp
 
 ## GitHub Actions
 - **Test Workflow**: Automatically runs tests on pull requests to the `develop` branch.
+
+![image](https://github.com/user-attachments/assets/aba6e043-0090-4f54-8097-8fadd659ae8a)
+
+
 - **Deploy Workflow**: Deploys the application to a hosting service when changes are pushed to the `main` branch.
+
+  Deployed to Render: https://githubactions-project-20.onrender.com
 
 ## How to Run the Project
 1. Clone the repository.
