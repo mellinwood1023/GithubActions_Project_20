@@ -23,6 +23,8 @@ This project is a coding quiz application built with a React frontend and an Exp
 
 ![image](https://github.com/user-attachments/assets/aba6e043-0090-4f54-8097-8fadd659ae8a)
 
+![image](https://github.com/user-attachments/assets/3f6de16c-dfe8-4e15-99c2-7b43cb343368)
+
 
 - **Deploy Workflow**: Deploys the application to a hosting service when changes are pushed to the `main` branch.
 
